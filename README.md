@@ -1,5 +1,7 @@
 # yayasan
 
+yang sudah di kerjakan
+
 - splash
 - login
 - model
