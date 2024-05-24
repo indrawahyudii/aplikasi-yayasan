@@ -44,6 +44,13 @@ class DashboardScreen extends StatelessWidget {
                         },
                       ),
                     ),
+                    child: Text(
+                        'Donasi',
+                        style: GoogleFonts.poppins(
+                          fontSize: 10,
+                          color: Color.fromARGB(255, 214, 217, 221),
+                        ),
+                      ),
                   ],
                 ),
               ),
