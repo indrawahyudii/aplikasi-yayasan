@@ -2,6 +2,7 @@
 
 yang sudah di kerjakan
 
+- dasboard
 - splash
 - login
 - model
