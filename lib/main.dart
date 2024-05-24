@@ -19,7 +19,7 @@ class MainApp extends StatelessWidget {
         useMaterial3: true,
       ),
       debugShowCheckedModeBanner: false,
-      home: const DonasiScreen(),
+      home: const DashboardScreen(),
     );
   }
 }
